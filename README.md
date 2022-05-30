@@ -2,7 +2,7 @@
 
 ## Fullstack Developer
 
-I've been working on freelance projects in javascript ecosystem.
+At the moment, I am working on freelance projects.
 
 -  :earth_asia: I'm based in Yangon, Myanmar
 -  :alien: See my portfolio at [My Portfolio](http://thanhtutaung.netlify.app/)
