@@ -7,7 +7,7 @@ I've been working on freelance projects in javascript ecosystem.
 -  🌍 I'm based in Yangon, Myanmar
 -  🖥️ See my portfolio at [My Portfolio](http://thanhtutaung.netlify.app/)
 -  ✉️ You can contact me at [thanhtutaung2k22@gmail.com](mailto:thanhtutaung2k22@gmail.com)
--  🧠 I'm learning Graphql & PostgresSql
+-  🧠 I'm learning Graphql & PostgresSql :ghost:
 -  🤝 I'm open to collaborating on e-commerce projects
 -  ⚡ In a relationship with React
 
