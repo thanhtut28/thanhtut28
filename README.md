@@ -1,6 +1,6 @@
 # Hi :ghost: My name is Than Htut Aung
 
-## Fullstack Developer
+## React Developer
 
 At the moment, I am working on freelance projects.
 
