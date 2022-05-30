@@ -1,15 +1,15 @@
-# Hi 👋 My name is Than Htut Aung
+# Hi :ghost: My name is Than Htut Aung
 
 ## Fullstack Developer
 
 I've been working on freelance projects in javascript ecosystem.
 
--  🌍 I'm based in Yangon, Myanmar
--  🖥️ See my portfolio at [My Portfolio](http://thanhtutaung.netlify.app/)
--  ✉️ You can contact me at [thanhtutaung2k22@gmail.com](mailto:thanhtutaung2k22@gmail.com)
--  🧠 I'm learning Graphql & PostgresSql :ghost:
--  🤝 I'm open to collaborating on e-commerce projects
--  ⚡ In a relationship with React
+-  :earth_asia: I'm based in Yangon, Myanmar
+-  :alien: See my portfolio at [My Portfolio](http://thanhtutaung.netlify.app/)
+-  :mailbox_with_mail: You can contact me at [thanhtutaung2k22@gmail.com](mailto:thanhtutaung2k22@gmail.com)
+-  :brain: I'm learning Graphql & PostgresSql
+-  :handshake: I'm open to collaborating on e-commerce projects
+-  :heart: In a relationship with React
 
 ### Skills
 
