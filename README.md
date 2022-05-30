@@ -1,6 +1,6 @@
 # Hi :ghost: My name is Than Htut Aung
 
-## React Developer
+## ReactJs Developer
 
 At the moment, I am working on freelance projects.
 
