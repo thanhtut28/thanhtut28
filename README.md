@@ -13,7 +13,7 @@ At the moment, I am working on freelance projects.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,redux,materialui,apollo,express,postgres,prisma,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,materialui,apollo,express,postgres,prisma,graphql)](https://skillicons.dev)
 
 ### Socials
 
