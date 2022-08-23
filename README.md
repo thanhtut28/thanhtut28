@@ -5,7 +5,7 @@
 At the moment, I am working on freelance projects.
 
 -  :earth_asia: I'm based in Yangon, Myanmar
--  :alien: See my portfolio at [My Portfolio](http://thanhtutaung.netlify.app/)
+-  :alien: See my portfolio at [My Portfolio](http://thanhtutaung-portfolio.netlify.app/)
 -  :mailbox_with_mail: You can contact me at [thanhtutaung2k22@gmail.com](mailto:thanhtutaung2k22@gmail.com)
 -  :brain: I'm learning GraphQL & PostgreSQL
 -  :handshake: I'm open to collaborating on e-commerce projects
