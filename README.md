@@ -29,10 +29,12 @@
 <b>Top Repositories</b>
 
 <div widht="100%" align="center">
-<a href="https://github.com/thanhtut28/stargazing-otw" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtut28&repo=stargazing-otw&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
 <a href="https://github.com/thanhtut28/scribble-frontend" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtut28&repo=scribble-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
+<a href="https://github.com/thanhtut28/todo-agent" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtut28&repo=todo-agent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div widht="100%" align="center">
+<a href="https://github.com/thanhtut28/stargazing-otw" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtut28&repo=stargazing-otw&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/thanhtut28/pos-frontend-mantine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtut28&repo=pos-frontend-mantine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
