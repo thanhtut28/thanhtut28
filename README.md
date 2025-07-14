@@ -2,13 +2,12 @@
 
 ## Full Stack Developer
 
-At the moment, I am working on freelance projects.
+At the moment, I am working on frontend developer at Otterdev.
 
--  :earth_asia: I'm based in Yangon, Myanmar
+-  :earth_asia: I'm based in Bangkok, Thailand.
 -  :alien: See my portfolio at [My Portfolio](http://thanhtutaung-portfolio.netlify.app/)
 -  :mailbox_with_mail: You can contact me at [thanhtutaung2k22@gmail.com](mailto:thanhtutaung2k22@gmail.com)
--  :brain: I'm learning GraphQL & PostgreSQL
--  :heart: In a relationship with React
+-  :brain: Currently learning OpenAI and React Native.  
 
 ### Skills
 
