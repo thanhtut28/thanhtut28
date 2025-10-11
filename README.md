@@ -1,4 +1,4 @@
-# Hi :ghost: My name is Than Htut Aung
+# Hi! My name is Than Htut Aung
 
 ## Full Stack Developer
 
